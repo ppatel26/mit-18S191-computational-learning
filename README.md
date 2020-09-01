@@ -15,8 +15,6 @@ This repo holds my HW solutions for the MIT's 18.S191 course.
 
 ***
 
-<br>
-
 ### Supplement Resources
 <br>
 
