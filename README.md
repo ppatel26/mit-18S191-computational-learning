@@ -7,11 +7,19 @@ This repo holds my HW solutions for the MIT's 18.S191 course.
 >- Image analysis
 >- Particle dynamics and ray tracing
 >- Epidemic propagation
->- Climate modeling
+>- Climate modeling 
+
+**Course Link**: https://github.com/mitmath/18S191
 
 <br>
 
-**Course Link**: https://github.com/mitmath/18S191
+### Solutions
+
+- <a href="https://htmlpreview.github.io/?" target="_blank">homework 0</a>
+- ..
+
+
+<br>
 
 ***
 
