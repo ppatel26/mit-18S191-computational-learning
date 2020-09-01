@@ -1,0 +1,6 @@
+## ignore .DS_Store file.
+# git rm --cached .DS_Store
+*.DS_Store
+
+# ignore all dev/ folders 
+*dev/
