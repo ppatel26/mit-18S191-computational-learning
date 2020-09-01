@@ -11,11 +11,10 @@ This repo holds my HW solutions for the MIT's 18.S191 course.
 
 **Course Link**: https://github.com/mitmath/18S191
 
-<br>
 
 ### Solutions
 
-- <a href="https://htmlpreview.github.io/?" target="_blank">homework 0</a>
+- <a href="https://htmlpreview.github.io/?https://github.com/ppatel26/mit-18S191-computational-learning/blob/master/html/hw0.jl.html" target="_blank">homework 0</a>
 - ..
 
 
