@@ -49,7 +49,9 @@ This is because the square root must be between the numbers `x/a` and `a`. Why?
 
 # ╔═╡ bccf0e88-e754-11ea-3ab8-0170c2d44628
 ex_1_1 = md"""
-your answer here
+If $a$ is too big ($>\sqrt{x}$), then $x/a$ will be too small ($<\sqrt{x}$), and so their arithmetic mean $\frac{a+(x/a)}{2}$ will be closer to $\sqrt{x}$
+
+*source*: https://math.mit.edu/~stevenj/18.335/newton-sqrt.pdf
 """ 
 
 # you might need to wait until all other cells in this notebook have completed running. 
@@ -76,7 +78,7 @@ function newton_sqrt(x, error_margin=0.01, a=x / 2) # a=x/2 is the default value
 end
 
 # ╔═╡ 7a01a508-e78a-11ea-11da-999d38785348
-newton_sqrt(9)
+newton_sqrt(2)
 
 # ╔═╡ 682db9f8-e7b1-11ea-3949-6b683ca8b47b
 let
@@ -260,7 +262,7 @@ has area **$(area_sierpinski(n))**
 # ╟─fafae38e-e852-11ea-1208-732b4744e4c2
 # ╟─339c2d5c-e6ce-11ea-32f9-714b3628909c
 # ╟─56866718-e6ce-11ea-0804-d108af4e5653
-# ╠═bccf0e88-e754-11ea-3ab8-0170c2d44628
+# ╟─bccf0e88-e754-11ea-3ab8-0170c2d44628
 # ╟─e7abd366-e7a6-11ea-30d7-1b6194614d0a
 # ╟─d62f223c-e754-11ea-2470-e72a605a9d7e
 # ╠═4896bf0c-e754-11ea-19dc-1380bb356ab6
