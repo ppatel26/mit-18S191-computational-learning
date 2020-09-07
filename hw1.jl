@@ -1464,7 +1464,7 @@ sobel_camera_image = Gray.(process_raw_camera_data(sobel_raw_camera_data));
 # ╟─54056a02-ee0a-11ea-101f-47feb6623bec
 # ╟─540ccfcc-ee0a-11ea-15dc-4f8120063397
 # ╟─467856dc-eded-11ea-0f83-13d939021ef3
-# ╠═56ced344-eded-11ea-3e81-3936e9ad5777
+# ╟─56ced344-eded-11ea-3e81-3936e9ad5777
 # ╟─ad6a33b0-eded-11ea-324c-cfabfd658b56
 # ╠═f51333a6-eded-11ea-34e6-bfbb3a69bcb0
 # ╟─b18e2c54-edf1-11ea-0cbf-85946d64b6a2
