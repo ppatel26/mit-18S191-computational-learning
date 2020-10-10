@@ -18,6 +18,7 @@ This repo holds my HW solutions for the MIT's 18.S191 course.
 - <a href="https://htmlpreview.github.io/?https://github.com/ppatel26/mit-18S191-computational-learning/blob/master/html/hw1.jl.html" target="_blank">homework 1</a>
 - <a href="https://htmlpreview.github.io/?https://github.com/ppatel26/mit-18S191-computational-learning/blob/master/html/hw2.jl.html" target="_blank">homework 2</a>
 - <a href="https://htmlpreview.github.io/?https://github.com/ppatel26/mit-18S191-computational-learning/blob/master/html/hw3.jl.html" target="_blank">homework 3</a>
+- <a href="https://htmlpreview.github.io/?https://github.com/ppatel26/mit-18S191-computational-learning/blob/master/html/hw4.jl.html" target="_blank">homework 4</a>
 - ..
 
 <br>
