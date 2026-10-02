@@ -1,5 +1,5 @@
 ### A Pluto.jl notebook ###
-# v0.11.12
+# v0.12.3
 
 using Markdown
 using InteractiveUtils
@@ -937,9 +937,6 @@ mean_colors(reshape([RGB(1.0, 1.0, 1.0), RGB(1.0, 1.0, 0.0)], (2,1)))
 # ╔═╡ 5516c800-edee-11ea-12cf-3f8c082ef0ef
 hint(text) = Markdown.MD(Markdown.Admonition("hint", "Hint", [text]))
 
-# ╔═╡ f6ef2c2e-ee07-11ea-13a8-2512e7d94426
-hint(md"The `rand` function generates (uniform) random floating-point numbers between $0$ and $1$.")
-
 # ╔═╡ 57360a7a-edee-11ea-0c28-91463ece500d
 almost(text) = Markdown.MD(Markdown.Admonition("warning", "Almost there!", [text]))
 
@@ -1536,7 +1533,6 @@ sobel_camera_image = Gray.(process_raw_camera_data(sobel_raw_camera_data));
 # ╠═1901b952-ef44-11ea-0d14-f95cc82dddab
 # ╟─f6d6c71a-ee07-11ea-2b63-d759af80707b
 # ╠═f6e2cb2a-ee07-11ea-06ee-1b77e34c1e91
-# ╟─f6ef2c2e-ee07-11ea-13a8-2512e7d94426
 # ╟─f6fc1312-ee07-11ea-39a0-299b67aee3d8
 # ╠═774b4ce6-ee1b-11ea-2b48-e38ee25fc89b
 # ╠═7e4aeb70-ee1b-11ea-100f-1952ba66f80f

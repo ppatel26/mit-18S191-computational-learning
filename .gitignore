@@ -4,3 +4,18 @@
 
 # ignore all dev/ folders 
 *dev/
+
+# fleet standard ignores
+.DS_Store
+._*
+.env
+.env.*
+__omp_shell(".env.example")
+__omp_shell(".env.schema")
+node_modules/
+.venv/
+venv/
+__pycache__/
+*.pyc
+target/
+.ipynb_checkpoints/
